@@ -90,6 +90,8 @@ void main()
 ```
 
 <h2>Схема</h2>
+<img width="367" height="680" alt="image" src="https://github.com/user-attachments/assets/12d207aa-8b6f-44ab-a7f9-b527362e394d" /><br>
+<img width="570" height="748" alt="image" src="https://github.com/user-attachments/assets/c3750b2e-e73a-4993-8c7a-72378531aa49" />
 
 <h2>Консоль</h2>
 <img width="638" height="86" alt="image" src="https://github.com/user-attachments/assets/0526dbff-a0dd-4d82-aa57-693051881103" />
